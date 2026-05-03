@@ -78,28 +78,22 @@ Each CSV under `Data_sets/` requires: `Food_items`, `Calories`, `Fats`, `Protein
 ------
 # Project Overview
 
-## 📌 Input Panel
+##  Input Panel
 <p align="center">
   <img src="assets/Input_Panel.png" width="600"/>
 </p>
 
 ---
 
-## 📌 Recommended Plan 0
+##  Recommended Plans
 <p align="center">
   <img src="assets/Recommended_Plan0.png" width="600"/>
-</p>
-
----
-
-## 📌 Recommended Plan 1
-<p align="center">
   <img src="assets/Recommended_Plan1.png" width="600"/>
 </p>
 
 ---
 
-## 📌 Tips Section
+##  Tips Section
 <p align="center">
   <img src="assets/Tips.png" width="600"/>
 </p>
