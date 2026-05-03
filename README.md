@@ -47,7 +47,7 @@ pip install flask pandas numpy scikit-learn
 python app.py
 ```
 ----------
-## API
+## API Sample
 
 `POST /recommend`
 
