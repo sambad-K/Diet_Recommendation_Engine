@@ -74,3 +74,32 @@ Returns a structured meal plan with food items, macros, and total calorie target
 ## Dataset Format
 
 Each CSV under `Data_sets/` requires: `Food_items`, `Calories`, `Fats`, `Proteins`, `Carbohydrates`, `Link`
+
+------
+# Project Overview
+
+## 📌 Input Panel
+<p align="center">
+  <img src="assets/Input_Panel.png" width="600"/>
+</p>
+
+---
+
+## 📌 Recommended Plan 0
+<p align="center">
+  <img src="assets/Recommended_Plan0.png" width="600"/>
+</p>
+
+---
+
+## 📌 Recommended Plan 1
+<p align="center">
+  <img src="assets/Recommended_Plan1.png" width="600"/>
+</p>
+
+---
+
+## 📌 Tips Section
+<p align="center">
+  <img src="assets/Tips.png" width="600"/>
+</p>
